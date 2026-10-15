@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "2.4",
+  "versionCode": 16,
+  "versionName": "2.5",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Ayarlarda tum butonlar, anahtarlar ve ikonlarda belirgin odak cercevesi (TV'de secili yer belli, sag/sol gecis gorunur)."
+  "notes": "Tam ekran videoda da imlec: oynaticinin kendi kontrollerine (sure cubugu, dil, oynat) kumandayla tiklayabilirsin. TV tarayici icerigi %33 kucultuldu. Arama gecmisi artik gorunur."
 }
