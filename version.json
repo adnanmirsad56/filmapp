@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "2.5",
+  "versionCode": 17,
+  "versionName": "2.6",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Tam ekran videoda da imlec: oynaticinin kendi kontrollerine (sure cubugu, dil, oynat) kumandayla tiklayabilirsin. TV tarayici icerigi %33 kucultuldu. Arama gecmisi artik gorunur."
+  "notes": "TV tarayici %33 kucultuldu (CSS zoom); dizi bitince sonraki bolume gecis son 2 sn'de tetiklenir (erken gecmez); otomatik tam ekran basarili olana kadar birkac kez tekrar denenir (olmazsa ust cubuktaki Tam ekran butonu)."
 }
