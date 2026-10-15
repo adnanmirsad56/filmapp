@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Uygulama ici indirme (yuzde ilerleme) ve tek dokunusla Yukle; tek dokununca dizi/bolum/site bilgisi; sonraki bolum yuzde esigi ayarlanabilir; arama sonucunda site etiketi."
+  "notes": "Ayni siteden izlenen dizi bolumleri gecmiste tek (en son bolum) gorunur; farkli siteden izlenenler ayri kalir. TV icin kumanda odak cercevesi belirginlestirildi."
 }
