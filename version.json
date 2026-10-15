@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "3.9",
+  "versionCode": 31,
+  "versionName": "4.0",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Oynaticida YUKARI basinca imlec dogrudan sitenin kendi ALT kontrol cubuguna oturuyor (oynat/ileri-geri/ses/altyazi/ayarlar/tam ekran). Sol/sag ile butonlar arasi gez, ORTA ile tikla (web'e gercek dokunus gonderildigi icin tam ekranda da calisir). Tab yontemi kaldirildi. ASAGI = bizim butonlar."
+  "notes": "Telefonda TV duzeni secilince carousel sayfalari dokunmatik kaydirma ile degisiyor. Carousel secim cercevesi biraz daha genisletildi. Son izlenenlerde en saga hizli gidince secim 'Gecmisi temizle'de duruyor (Ayarlar'a kacmiyor). Oynatici tam ekran kumanda semasi sade varsayilana sifirlandi (sol/sag=sar, orta=oynat/dur, yukari/asagi=imlec+butonlar) - oynatici etkilesimi bastan kurulacak."
 }
