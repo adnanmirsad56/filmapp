@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "2.8",
+  "versionCode": 20,
+  "versionName": "2.9",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Tam ekranda: tek tik sag/sol = 10 sn ileri/geri sarma; bir yon tusunu basili tutunca imlec cikar ve onunla oynaticinin kendi kontrollerine (sure, dil) ulasirsin. Orta tus oynat/durdur (imlec acikken tiklar)."
+  "notes": "TV ana ekran kapaginda sag/sol tuslari dogrudan sayfa degistirir (titreme/geri-gel yok). Tam ekranda imlec, boyut/onceki/sonraki kaplama butonlarina da tiklayabilir (yon tusunu basili tutunca imlec gelir)."
 }
