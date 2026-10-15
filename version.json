@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "2.3",
+  "versionCode": 15,
+  "versionName": "2.4",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Ustteki kapak dongusu artik geri snap/git-gel yapmiyor; otomatik gecis animasyonu yarida kesilmiyor, sayac her sayfa degisiminde sifirlanir."
+  "notes": "Ayarlarda tum butonlar, anahtarlar ve ikonlarda belirgin odak cercevesi (TV'de secili yer belli, sag/sol gecis gorunur)."
 }
