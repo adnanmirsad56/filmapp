@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "4.0",
+  "versionCode": 32,
+  "versionName": "4.1",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Telefonda TV duzeni secilince carousel sayfalari dokunmatik kaydirma ile degisiyor. Carousel secim cercevesi biraz daha genisletildi. Son izlenenlerde en saga hizli gidince secim 'Gecmisi temizle'de duruyor (Ayarlar'a kacmiyor). Oynatici tam ekran kumanda semasi sade varsayilana sifirlandi (sol/sag=sar, orta=oynat/dur, yukari/asagi=imlec+butonlar) - oynatici etkilesimi bastan kurulacak."
+  "notes": "Son izlenenlerde en saga hizli gidince artik 'Gecmisi temizle'de duruyor (onPreviewKeyEvent ile DPAD_RIGHT yakalandi). Mobilde TV duzeninde oto tam ekran 'ses var goruntu yok' duzeldi (sentetik oto tam ekran yalniz gercek TV'de). Olceklendirme (Boyut) butonlari simdilik kaldirildi. Reklam filtreleri daha hizli devreye giriyor (yuksek oncelik) ve ilk film filtreler hazir olana kadar (en cok 2.5sn) beklenerek aciliyor. Tam ekranda ORTA = oynat/durdur."
 }
