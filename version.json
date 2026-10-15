@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Ebeveyn kilidinde dogru PIN girilince otomatik acilir; elle guncelleme kontrolu; suruklenebilir Siteler butonu; bolum otomatik gecis/oynatma; coklu site secerek arama; linke basili tutup siteye ekleme."
+  "notes": "Uygulama ici indirme (yuzde ilerleme) ve tek dokunusla Yukle; tek dokununca dizi/bolum/site bilgisi; sonraki bolum yuzde esigi ayarlanabilir; arama sonucunda site etiketi."
 }
