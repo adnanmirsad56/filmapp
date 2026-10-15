@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "2.9",
+  "versionCode": 21,
+  "versionName": "3.0",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "TV ana ekran kapaginda sag/sol tuslari dogrudan sayfa degistirir (titreme/geri-gel yok). Tam ekranda imlec, boyut/onceki/sonraki kaplama butonlarina da tiklayabilir (yon tusunu basili tutunca imlec gelir)."
+  "notes": "TV'de tam ekran artik guvenilir: web tarayici tam ekrani dokunus olmadan engelledigi icin, TV'de video CSS ile zorla tum ekrani kaplar (uzun video oynayinca otomatik; ust cubuktaki Tam ekran butonu da calisir). Geri tusu tam ekrandan cikar. TV ana ekran kapaginda sag/sol stabil."
 }
