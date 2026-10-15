@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "3.5",
+  "versionCode": 27,
+  "versionName": "3.6",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Mouse ile karta basili tutup surukleyerek satirlari ve sayfayi kaydirma (TV). Gecmis kartinda ORTA/OK tusuna UZUN basinca kaldir, kisa bas = oynat. Carousel secim cercevesi artik kapaga oturuyor (alt kenar noktalarin ustunde). TV'de API anahtari alani odakta klavye acmiyor; OK'a basinca dialog aciliyor (ekran titremesi bitti)."
+  "notes": "Oynaticida YUKARI tek basinca butonlar + imlec birlikte aciliyor (uzerlerine gidip secilebiliyor). Gecmiste uzun bas = ONAY sorarak kaldir (tusu birakinca film acilma hatasi duzeldi). Ana ekran basliklari artik cekmecede; satirin tamamina basinca ac/kapa. Carousel secim cercevesi: alt cizgi yok, sadece ust+sol+sag, ince ve yumusak."
 }
