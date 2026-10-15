@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "3.3",
+  "versionCode": 25,
+  "versionName": "3.4",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Her satirda artik en az ~20 film (2 sayfa cekiliyor, satirlar arasi ayiklama kaldirildi, yenilemede degisiyor). Ayarlar'dan hangi kategori basliklarinin gorunecegi acilip kapatilabiliyor. TV carousel kapak secimi artik gorunur (kirmizi cerceve, odak garanti). 'Kaldigin yerden devam' karti buyuyunce one geliyor, secim cizgisi incetildi. Oynatici TV'de %40 degil daha ilimli uzaklastirildi (butonlar okunur). Oynatici overlay butonlari 7 sn (Boyut'ta 10 sn) kaliyor. Ek reklam engelleyici: AdGuard listeleri (Base, Mobil, Izleme, Rahatsiz edici) eklendi."
+  "notes": "TV carousel kapak secimi ARTIK GORUNUYOR (odak sira hatasi duzeltildi). Carousel'dan asagi inince ilk film seciliyor. Tam ekranda imlec sadece yukari-tutunca aciliyor; imlec kapaliyken sol/saga basili tutunca uzunca ileri/geri alma. Ayarlardan ileri/geri sarma adimi secilebiliyor (5/10/15/30/60 sn). Sol ustte FilmApp yaninda secili icerik turu yaziyor; yeni turler: Kisa Film, Kisa Dizi. TV'de kumandayla gecmisten kaldirma (MENU tusu). Secim cizgisi incetildi, gecmis karti one geliyor."
 }
