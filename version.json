@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "2.2",
+  "versionCode": 14,
+  "versionName": "2.3",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Oynaticida Tam ekran butonu (TV'de otomatik olmazsa elle); tarayicida sayfa yuklenince web'e odak (imlec/giris calissin); ayarlarda surum ve derleme numarasi en altta; arama sonuclarinda odak cercevesi."
+  "notes": "Ustteki kapak dongusu artik geri snap/git-gel yapmiyor; otomatik gecis animasyonu yarida kesilmiyor, sayac her sayfa degisiminde sifirlanir."
 }
