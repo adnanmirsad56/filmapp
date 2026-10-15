@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "3.2",
+  "versionCode": 24,
+  "versionName": "3.3",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Yeni: sag ustte icerik turu butonu (Tumu / Filmler / Diziler / Cizgi film-Anime). TV: ana ekran kapak secimi artik gorunur ve satir gecisinde en uste atlamiyor (carousel odagi tek sefer isteniyor). Oto tam ekran daha guvenilir: video oynayinca tam ekran olana kadar tekrar denenir. Oynatici gorunumu TV'de %40 daha kucuk/genis. TV'de ust barda Yenile butonu (dokunmatik cek-yenile kaldirildi). Ayarlardaki 'siradaki bolum %' kumandayla -/+ ile ayarlanabilir."
+  "notes": "Her satirda artik en az ~20 film (2 sayfa cekiliyor, satirlar arasi ayiklama kaldirildi, yenilemede degisiyor). Ayarlar'dan hangi kategori basliklarinin gorunecegi acilip kapatilabiliyor. TV carousel kapak secimi artik gorunur (kirmizi cerceve, odak garanti). 'Kaldigin yerden devam' karti buyuyunce one geliyor, secim cizgisi incetildi. Oynatici TV'de %40 degil daha ilimli uzaklastirildi (butonlar okunur). Oynatici overlay butonlari 7 sn (Boyut'ta 10 sn) kaliyor. Ek reklam engelleyici: AdGuard listeleri (Base, Mobil, Izleme, Rahatsiz edici) eklendi."
 }
