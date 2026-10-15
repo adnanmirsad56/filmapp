@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
+  "versionCode": 10,
+  "versionName": "1.9",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "TV icin: Ayarlarda Gorunum secimi (Otomatik/TV/Telefon), TV'de %20 daha uzak gorunum, kumanda odagi belirgin cerceve, Siteler ust barda, takilan yenileme simgesi kaldirildi, tarayici ve oynaticida D-pad kontrolleri."
+  "notes": "TV tarayicisinda kumandayla gezen mouse imleci (orta tus tiklar, kenarda sayfa kayar); oynaticida D-pad: sol/sag sarma, orta oynat/durdur; ust cubuk ile web arasi odak gecisi duzeltildi; ayarlarda site listesi odak cercevesi."
 }
