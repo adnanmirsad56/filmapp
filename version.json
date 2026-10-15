@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "3.1",
+  "versionCode": 23,
+  "versionName": "3.2",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "TV tam ekran duzeltildi: donuk CSS yontemi kaldirildi, mobildeki gercek web tam ekrani TV'de sentetik dokunusla tetikleniyor (uzun video oynayinca otomatik; cift tik ve ust cubuktaki buton). TV ana ekran kapak secimi artik gorunur (icten kalin cerceve). Satirlar arasi kumanda gezinmesi duzeltildi (yukari/asagi tek satir)."
+  "notes": "Yeni: sag ustte icerik turu butonu (Tumu / Filmler / Diziler / Cizgi film-Anime). TV: ana ekran kapak secimi artik gorunur ve satir gecisinde en uste atlamiyor (carousel odagi tek sefer isteniyor). Oto tam ekran daha guvenilir: video oynayinca tam ekran olana kadar tekrar denenir. Oynatici gorunumu TV'de %40 daha kucuk/genis. TV'de ust barda Yenile butonu (dokunmatik cek-yenile kaldirildi). Ayarlardaki 'siradaki bolum %' kumandayla -/+ ile ayarlanabilir."
 }
