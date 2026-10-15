@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "3.7",
+  "versionCode": 29,
+  "versionName": "3.8",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Oynaticida ust cubukta 'Ekle' butonu: acik olan siteyi listene ekler (TV icin). TV'de sag alttaki Siteler butonu kaldirildi, ust cubuga alindi. Google arama sonucuna basili tutunca gercek site ekleniyor (yonlendirme cozuluyor). Gecmiste uzun bas = ONAY sorarak kaldir duzeldi (birakinca film acilmiyor). Oynaticida YUKARI tek bas = overlay butonlari kumandayla gezilir (imlecsiz); uzun bas = imlec. Carousel cercevesi biraz genisletildi."
+  "notes": "Oynaticida YUKARI tek bas = sitenin KENDI oynatici kontrollerinde kumandayla gez (web'e Tab/Enter gonderiliyor; sol/sag sec, ORTA ac), uzun bas = imlec. ASAGI tek bas = bizim butonlar (Onceki/Boyut/Sonraki). Gecmiste uzun bas = ONAY sorarak kaldir artik dogru (birakinca site acilmiyor; combinedClickable kaldirildi, tus ve mouse ayrildi). Carousel cercevesi biraz genisletildi."
 }
