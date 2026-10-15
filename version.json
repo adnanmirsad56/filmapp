@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "3.6",
+  "versionCode": 28,
+  "versionName": "3.7",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Oynaticida YUKARI tek basinca butonlar + imlec birlikte aciliyor (uzerlerine gidip secilebiliyor). Gecmiste uzun bas = ONAY sorarak kaldir (tusu birakinca film acilma hatasi duzeldi). Ana ekran basliklari artik cekmecede; satirin tamamina basinca ac/kapa. Carousel secim cercevesi: alt cizgi yok, sadece ust+sol+sag, ince ve yumusak."
+  "notes": "Oynaticida ust cubukta 'Ekle' butonu: acik olan siteyi listene ekler (TV icin). TV'de sag alttaki Siteler butonu kaldirildi, ust cubuga alindi. Google arama sonucuna basili tutunca gercek site ekleniyor (yonlendirme cozuluyor). Gecmiste uzun bas = ONAY sorarak kaldir duzeldi (birakinca film acilmiyor). Oynaticida YUKARI tek bas = overlay butonlari kumandayla gezilir (imlecsiz); uzun bas = imlec. Carousel cercevesi biraz genisletildi."
 }
