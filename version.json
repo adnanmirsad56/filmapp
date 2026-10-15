@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "3.4",
+  "versionCode": 26,
+  "versionName": "3.5",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "TV carousel kapak secimi ARTIK GORUNUYOR (odak sira hatasi duzeltildi). Carousel'dan asagi inince ilk film seciliyor. Tam ekranda imlec sadece yukari-tutunca aciliyor; imlec kapaliyken sol/saga basili tutunca uzunca ileri/geri alma. Ayarlardan ileri/geri sarma adimi secilebiliyor (5/10/15/30/60 sn). Sol ustte FilmApp yaninda secili icerik turu yaziyor; yeni turler: Kisa Film, Kisa Dizi. TV'de kumandayla gecmisten kaldirma (MENU tusu). Secim cizgisi incetildi, gecmis karti one geliyor."
+  "notes": "Mouse ile karta basili tutup surukleyerek satirlari ve sayfayi kaydirma (TV). Gecmis kartinda ORTA/OK tusuna UZUN basinca kaldir, kisa bas = oynat. Carousel secim cercevesi artik kapaga oturuyor (alt kenar noktalarin ustunde). TV'de API anahtari alani odakta klavye acmiyor; OK'a basinca dialog aciliyor (ekran titremesi bitti)."
 }
