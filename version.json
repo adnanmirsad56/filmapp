@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "2.7",
+  "versionCode": 19,
+  "versionName": "2.8",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Oynaticida bos bir yere cift tiklayinca (TV'de imlecle ust uste iki kez OK) tam ekran olur."
+  "notes": "Tam ekranda: tek tik sag/sol = 10 sn ileri/geri sarma; bir yon tusunu basili tutunca imlec cikar ve onunla oynaticinin kendi kontrollerine (sure, dil) ulasirsin. Orta tus oynat/durdur (imlec acikken tiklar)."
 }
