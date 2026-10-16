@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "4.8",
+  "versionCode": 40,
+  "versionName": "4.9",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "YouTube izlenenler artik 'Kaldigin Yerden Devam Et'te yok, sadece Izleme Gecmisi'nde. Izleme Gecmisi 'Eskileri temizle' son 10 kaydi tutar; satir sonundaki 'Gecmisi temizle' hepsini siler. Gecmiste odak hatalari duzeldi (sag tus / silince ust bara kacma). YouTube TV donmasi duzeldi (kendi oynaticisina karismiyoruz) + %25 uzaklasma. ufilmizle gibi oynaticisi asagida sitelerde oto tam ekran icin dokunus merkeze alindi. SmartTube indir artik uygulama ici indirip kuruyor."
+  "notes": "Listele (filtre) ciplerinde odak artik SARI cerceve ile net. YouTube gercek TV'de (mobil gorunumde bile) TV arayuzu (youtube.com/tv) ile aciliyor; SmartTube kuruluysa dogrudan acilir (paket gorunurlugu eklendi). Google/serbest tarayici yazilari buyutuldu. filmmakinesi.to gibi sitelerde oto oynatma denemesi (play butonuna tik). Carousel otomatik gecisi artik afisi yarida birakmiyor. TV'de (mobil gorunum dahil) takili yenileme gostergesi kaldirildi."
 }
