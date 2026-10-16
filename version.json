@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "4.2",
+  "versionCode": 34,
+  "versionName": "4.3",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Mobilde oto tam ekran tekrar calisiyor (4.1'deki kisitlama kaldirildi). Sayfa zoom'u artik yalniz gercek TV'de (telefon-TV modunda 'ses var goruntu yok' duzeldi). Ust barda 'FilmApp' artik tek satir, ikonlar birbirine yakinlastirildi. Ayarlarda 'Sitelerim' de artik cekmecede; Siteler ve Ana ekran basliklari alt alta, yaninda cekmece oku."
+  "notes": "Oto tam ekran 'ses var goruntu yok' (siyah ekran) duzeltmesi: artik once sitenin KENDI tam ekran butonu bulunup tiklaniyor (oynatici kendi JS'iyle acip goruntuyu getiriyor); bulunamazsa eski yontem. Telefonda ve TV'de otomatik tam ekranda goruntu gelmeli."
 }
