@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "4.4",
+  "versionCode": 36,
+  "versionName": "4.5",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "TV'de engellenen reklamlarin bos alani artik kayboluyor: oynatici WebView'ine mobil user agent verildi (site mobil duzeni sunuyor). Ust bara 'Izleme gecmisi' butonu eklendi (tum gecmis + oynat/kaldir/temizle). Ayarlarda Google Drive ve dosya yedekleme tek 'Yedekleme' basligi altinda birlestirildi."
+  "notes": "Ust bara YouTube butonu: kurulu SmartTube'u acar (reklamsiz YouTube). Oto tam ekran duzeltildi: once video ogesini tam ekran yapiyor (siyah ekran gitti, TV'de de calisir). Engellenen reklamlarin bos alani CSS ile cokertiliyor. Izleyip bitirilen film/diziler 'Kaldigin Yerden Devam Et'ten kalkiyor, sadece Izleme Gecmisi'nde gorunuyor."
 }
