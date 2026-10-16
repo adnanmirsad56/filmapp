@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "4.1",
+  "versionCode": 33,
+  "versionName": "4.2",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Son izlenenlerde en saga hizli gidince artik 'Gecmisi temizle'de duruyor (onPreviewKeyEvent ile DPAD_RIGHT yakalandi). Mobilde TV duzeninde oto tam ekran 'ses var goruntu yok' duzeldi (sentetik oto tam ekran yalniz gercek TV'de). Olceklendirme (Boyut) butonlari simdilik kaldirildi. Reklam filtreleri daha hizli devreye giriyor (yuksek oncelik) ve ilk film filtreler hazir olana kadar (en cok 2.5sn) beklenerek aciliyor. Tam ekranda ORTA = oynat/durdur."
+  "notes": "Mobilde oto tam ekran tekrar calisiyor (4.1'deki kisitlama kaldirildi). Sayfa zoom'u artik yalniz gercek TV'de (telefon-TV modunda 'ses var goruntu yok' duzeldi). Ust barda 'FilmApp' artik tek satir, ikonlar birbirine yakinlastirildi. Ayarlarda 'Sitelerim' de artik cekmecede; Siteler ve Ana ekran basliklari alt alta, yaninda cekmece oku."
 }
