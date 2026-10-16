@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "4.3",
+  "versionCode": 35,
+  "versionName": "4.4",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Oto tam ekran 'ses var goruntu yok' (siyah ekran) duzeltmesi: artik once sitenin KENDI tam ekran butonu bulunup tiklaniyor (oynatici kendi JS'iyle acip goruntuyu getiriyor); bulunamazsa eski yontem. Telefonda ve TV'de otomatik tam ekranda goruntu gelmeli."
+  "notes": "TV'de engellenen reklamlarin bos alani artik kayboluyor: oynatici WebView'ine mobil user agent verildi (site mobil duzeni sunuyor). Ust bara 'Izleme gecmisi' butonu eklendi (tum gecmis + oynat/kaldir/temizle). Ayarlarda Google Drive ve dosya yedekleme tek 'Yedekleme' basligi altinda birlestirildi."
 }
