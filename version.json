@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "4.6",
+  "versionCode": 38,
+  "versionName": "4.7",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "YouTube butonu: SmartTube kuruluysa onu acar; degilse uygulama ici (reklamsiz) YouTube ac ya da SmartTube indir secenegi. Tam ekran daha cok sitede calissin diye: cross-origin iframe'lere allowfullscreen eklendi + oto tam ekran sentetik CIFT dokunusla (calisan cift-tik yolu) deneniyor."
+  "notes": "Uygulama ici YouTube TV'de artik youtube.com/tv (kendi TV arayuzu) ile aciliyor: kumandayla IMLEC degil SECIM ile gezilir (SmartTube gibi), grid duzen. Ayarlara (yalniz telefon) DNS ile reklam engelleme yardimcisi eklendi (Ozel DNS adresi + kopyala + ayarlari ac). Izleme (film/dizi) sayfalarinda oynatici asagidaysa otomatik gorunure kaydiriliyor (oto oynatma+tam ekran devreye girsin)."
 }
