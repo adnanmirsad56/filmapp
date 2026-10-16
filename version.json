@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "4.7",
+  "versionCode": 39,
+  "versionName": "4.8",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Uygulama ici YouTube TV'de artik youtube.com/tv (kendi TV arayuzu) ile aciliyor: kumandayla IMLEC degil SECIM ile gezilir (SmartTube gibi), grid duzen. Ayarlara (yalniz telefon) DNS ile reklam engelleme yardimcisi eklendi (Ozel DNS adresi + kopyala + ayarlari ac). Izleme (film/dizi) sayfalarinda oynatici asagidaysa otomatik gorunure kaydiriliyor (oto oynatma+tam ekran devreye girsin)."
+  "notes": "YouTube izlenenler artik 'Kaldigin Yerden Devam Et'te yok, sadece Izleme Gecmisi'nde. Izleme Gecmisi 'Eskileri temizle' son 10 kaydi tutar; satir sonundaki 'Gecmisi temizle' hepsini siler. Gecmiste odak hatalari duzeldi (sag tus / silince ust bara kacma). YouTube TV donmasi duzeldi (kendi oynaticisina karismiyoruz) + %25 uzaklasma. ufilmizle gibi oynaticisi asagida sitelerde oto tam ekran icin dokunus merkeze alindi. SmartTube indir artik uygulama ici indirip kuruyor."
 }
