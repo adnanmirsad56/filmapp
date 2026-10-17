@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "5.1",
+  "versionCode": 43,
+  "versionName": "5.2",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "YouTube butonu artik secenek sunuyor: SmartTube kuruluysa 'SmartTube ac' + 'Uygulama icinde ac (YouTube TV)'; degilse 'YouTube'u ac' + 'SmartTube indir'. Carousel otomatik gecis sayaci elle sag/sol yapinca sifirlaniyor (hemen atlamiyor). TV'de carousel odaginda afis kenarlarinda ince, soluk belirginlik (odak belli olsun)."
+  "notes": "Odak cizgileri inceltildi: film kartlari 1.25dp, carousel 0.75dp. YouTube TV'de bizim oto tam ekran modulu kapali. YouTube TV'de GERI artik YouTube'un kendi geri/kapat islevini tetikliyor (video kapanir/geri gider); uygulamadan cikmak icin ~1.5sn icinde ikinci kez GERI."
 }
