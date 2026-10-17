@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "5.3",
+  "versionCode": 45,
+  "versionName": "5.4",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "ufilmizle'de tam ekranda 'ses var goruntu yok' (siyah ekran) duzeltildi: oynatici sarmalayicisi tam ekran yapiliyor + tam ekrana girince goruntu yeniden cizdiriliyor. YouTube/Google onizleme videolari artik istenmeden tam ekran olmuyor (yalniz actiginiz film tam ekran olur). dizibox vb. sitelerde 'oynat'a basinca acilan bahis reklamlari engellendi: yeni sekme baglantilari ve oynatici sayfasindaki site-disi yonlendirmeler kapatildi."
+  "notes": "Serbest gezinmede (Google vb.) oto tam ekran duzeltildi: senin actigin (sesli) videolar yine tam ekran olur; sessiz oto-oynayan onizleme videolari artik istenmeden tam ekran olmaz. Uygulamadan actigin filmler eskisi gibi her zaman tam ekran. (YouTube TV butonu zaten ayri ve oto tam ekran kapali.)"
 }
