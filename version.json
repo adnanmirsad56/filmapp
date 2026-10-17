@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "5.0",
+  "versionCode": 42,
+  "versionName": "5.1",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "TV'de afis (carousel) gorunumu mobildeki gibi: sade, otomatik donen, kalin secim cercevesi yok (kumandayla sag/sol). Sari odak cercevesi Listele ve Rastgele butonlarina da eklendi. YouTube TV: ekran olcegi standart, uBlock ad-block geri acildi (bridge kapali, donmaz), ust cubugumuz gizli. SmartTube kuruluysa hangi build olursa olsun bulup aciyor (indir cikmaz)."
+  "notes": "YouTube butonu artik secenek sunuyor: SmartTube kuruluysa 'SmartTube ac' + 'Uygulama icinde ac (YouTube TV)'; degilse 'YouTube'u ac' + 'SmartTube indir'. Carousel otomatik gecis sayaci elle sag/sol yapinca sifirlaniyor (hemen atlamiyor). TV'de carousel odaginda afis kenarlarinda ince, soluk belirginlik (odak belli olsun)."
 }
