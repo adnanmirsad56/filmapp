@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "4.9",
+  "versionCode": 41,
+  "versionName": "5.0",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Listele (filtre) ciplerinde odak artik SARI cerceve ile net. YouTube gercek TV'de (mobil gorunumde bile) TV arayuzu (youtube.com/tv) ile aciliyor; SmartTube kuruluysa dogrudan acilir (paket gorunurlugu eklendi). Google/serbest tarayici yazilari buyutuldu. filmmakinesi.to gibi sitelerde oto oynatma denemesi (play butonuna tik). Carousel otomatik gecisi artik afisi yarida birakmiyor. TV'de (mobil gorunum dahil) takili yenileme gostergesi kaldirildi."
+  "notes": "TV'de afis (carousel) gorunumu mobildeki gibi: sade, otomatik donen, kalin secim cercevesi yok (kumandayla sag/sol). Sari odak cercevesi Listele ve Rastgele butonlarina da eklendi. YouTube TV: ekran olcegi standart, uBlock ad-block geri acildi (bridge kapali, donmaz), ust cubugumuz gizli. SmartTube kuruluysa hangi build olursa olsun bulup aciyor (indir cikmaz)."
 }
