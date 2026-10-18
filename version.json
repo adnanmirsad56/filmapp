@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "5.7",
+  "versionCode": 49,
+  "versionName": "5.8",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Tam ekran yenilendi: 'Sayfa ici' tam ekran (varsayilan) - goruntu sabit, sitenin kendi oynatici butonlari kumandayla secilir (yukari/asagi sari odak, oklar gezer, OK basar). Otomatik oynatma duzeldi: oynaticiyi kilitleyen hata giderildi, iki 'oynat' basisi kendiliginden. Sonraki bolum dogru bolume gider. Kaldigin Yer'de dizi tek kart. YouTube TV: ana sayfadaki tam ekran reklam kalkti, kartlar arasi gezinme duzeldi, oynarken sol/sag tek basista sarar, Geri video kapatir. TV'de guncellemeler artik kendiliginden gorunur. Ust cubukta uygulama adi kesilmiyor."
+  "notes": "Ayarlar yenilendi: acilir kapanir bolumler, TV'de kaydirma duzeldi (secili oge ekranda kalir). Film bilgisi kaynagi secimi: TMDB calismazsa Trakt (Turkce adlar), OMDb ve TVmaze yedek. TV'de ana sayfa afisi tam gorunur. YouTube TV'de duraklatilmis videoda Geri uygulamadan cikarmiyor. Ayarlar > Hakkinda eklendi."
 }
