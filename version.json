@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "5.4",
+  "versionCode": 46,
+  "versionName": "5.5",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Serbest gezinmede (Google vb.) oto tam ekran duzeltildi: senin actigin (sesli) videolar yine tam ekran olur; sessiz oto-oynayan onizleme videolari artik istenmeden tam ekran olmaz. Uygulamadan actigin filmler eskisi gibi her zaman tam ekran. (YouTube TV butonu zaten ayri ve oto tam ekran kapali.)"
+  "notes": "Oto tam ekran artik oynaticinin KENDI tam ekranini kullaniyor: butonlar tam ekranda gorunur; Geri ile cikinca tekrar zorla tam ekran olmaz. Videoyu otomatik baslat: hdfilmcehennemi, filmmakinesi, selcukflix gibi oynat dugmesi bekleyen sitelerde gercek dokunusla baslatir (Ayarlar'dan kapatilabilir). Bahis reklamlari: oynaticinin bahis sayfasina donmesi ve bahis yonlendirmeleri engellendi. YouTube: TV duzeninde youtube.com/tv, telefon duzeninde m.youtube — ikisinde de reklam engelleme. Site listelerinde kapak fotograflari daha cok sitede gorunur. TV: Detay'dan donunce satirlar degismez, odak actigin afise doner; carousel duzeltmeleri. Telefonda Google yazilari standart boyut. Ayarlar: Tam ekran yontemi secimi. Guvenlik: indirilen APK'lar sorularak kurulur, guncellemeler imza ile dogrulanir. Ve 20+ hata duzeltmesi."
 }
