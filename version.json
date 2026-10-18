@@ -1,6 +1,6 @@
 {
-  "versionCode": 47,
-  "versionName": "5.6",
+  "versionCode": 48,
+  "versionName": "5.7",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Tam ekranda kumandayla oynatici butonlarini sec: yukari/asagi ile butonlar sari cerceveyle secilir, oklar gezer, OK basar, Geri kapatir (Ayarlar: Odak / Imlec). YouTube TV: oynarken sol/sag tek basista durmadan sarar; yatay tam ekran; Geri artik sol menuyu acmiyor. hdfilmcehennemi gibi sitelerde oynatici kendiliginden bulunup ekrana getiriliyor ve iki 'oynat' basisi otomatik yapiliyor. Filmi sitede bul: arama adresi 404 verirse sitenin kendi arama kutusuna otomatik yazar ve dogru arama adresini ogrenir. Arama ekraninda Google: tum webde ya da sadece kayitli sitelerinde ara. Google'dan kayitli siteye girince film sayfasi ozellikleri calisir. Kaldigin Yer'den silince odak yandaki filme gecer."
+  "notes": "Tam ekran yenilendi: 'Sayfa ici' tam ekran (varsayilan) - goruntu sabit, sitenin kendi oynatici butonlari kumandayla secilir (yukari/asagi sari odak, oklar gezer, OK basar). Otomatik oynatma duzeldi: oynaticiyi kilitleyen hata giderildi, iki 'oynat' basisi kendiliginden. Sonraki bolum dogru bolume gider. Kaldigin Yer'de dizi tek kart. YouTube TV: ana sayfadaki tam ekran reklam kalkti, kartlar arasi gezinme duzeldi, oynarken sol/sag tek basista sarar, Geri video kapatir. TV'de guncellemeler artik kendiliginden gorunur. Ust cubukta uygulama adi kesilmiyor."
 }
