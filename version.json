@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "5.5",
+  "versionCode": 47,
+  "versionName": "5.6",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Oto tam ekran artik oynaticinin KENDI tam ekranini kullaniyor: butonlar tam ekranda gorunur; Geri ile cikinca tekrar zorla tam ekran olmaz. Videoyu otomatik baslat: hdfilmcehennemi, filmmakinesi, selcukflix gibi oynat dugmesi bekleyen sitelerde gercek dokunusla baslatir (Ayarlar'dan kapatilabilir). Bahis reklamlari: oynaticinin bahis sayfasina donmesi ve bahis yonlendirmeleri engellendi. YouTube: TV duzeninde youtube.com/tv, telefon duzeninde m.youtube — ikisinde de reklam engelleme. Site listelerinde kapak fotograflari daha cok sitede gorunur. TV: Detay'dan donunce satirlar degismez, odak actigin afise doner; carousel duzeltmeleri. Telefonda Google yazilari standart boyut. Ayarlar: Tam ekran yontemi secimi. Guvenlik: indirilen APK'lar sorularak kurulur, guncellemeler imza ile dogrulanir. Ve 20+ hata duzeltmesi."
+  "notes": "Tam ekranda kumandayla oynatici butonlarini sec: yukari/asagi ile butonlar sari cerceveyle secilir, oklar gezer, OK basar, Geri kapatir (Ayarlar: Odak / Imlec). YouTube TV: oynarken sol/sag tek basista durmadan sarar; yatay tam ekran; Geri artik sol menuyu acmiyor. hdfilmcehennemi gibi sitelerde oynatici kendiliginden bulunup ekrana getiriliyor ve iki 'oynat' basisi otomatik yapiliyor. Filmi sitede bul: arama adresi 404 verirse sitenin kendi arama kutusuna otomatik yazar ve dogru arama adresini ogrenir. Arama ekraninda Google: tum webde ya da sadece kayitli sitelerinde ara. Google'dan kayitli siteye girince film sayfasi ozellikleri calisir. Kaldigin Yer'den silince odak yandaki filme gecer."
 }
