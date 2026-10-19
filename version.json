@@ -1,6 +1,6 @@
 {
-  "versionCode": 50,
-  "versionName": "5.9",
+  "versionCode": 51,
+  "versionName": "6.0",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Tam ekranda Geri: butonlar aciksa ilk Geri onlari gizler, tam ekrandan cikmak icin 2 kez Geri. Oynaticinin buyut dugmesi artik siyah ekran yapmiyor. ddizibox'ta bahis reklamlari atlaniyor. TV'de otomatik oynatma oynaticinin gercek yerine basar. TV ana sayfa afisi tek resim, tamami gorunur. Guncelleme uyarisi daha cabuk gelir."
+  "notes": "TV ana sayfa afisi ekrani dolduruyor, secim cizgisi daha ince. Tam ekranda sitenin butonlari kumandayla gezdikten sonra kendiliginden gizlenir. Film/dizi sayfasi acilinca sayfa oynaticiya iner. Guncelleme uyarisi artik kendiliginden gelir."
 }
