@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "5.8",
+  "versionCode": 50,
+  "versionName": "5.9",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Ayarlar yenilendi: acilir kapanir bolumler, TV'de kaydirma duzeldi (secili oge ekranda kalir). Film bilgisi kaynagi secimi: TMDB calismazsa Trakt (Turkce adlar), OMDb ve TVmaze yedek. TV'de ana sayfa afisi tam gorunur. YouTube TV'de duraklatilmis videoda Geri uygulamadan cikarmiyor. Ayarlar > Hakkinda eklendi."
+  "notes": "Tam ekranda Geri: butonlar aciksa ilk Geri onlari gizler, tam ekrandan cikmak icin 2 kez Geri. Oynaticinin buyut dugmesi artik siyah ekran yapmiyor. ddizibox'ta bahis reklamlari atlaniyor. TV'de otomatik oynatma oynaticinin gercek yerine basar. TV ana sayfa afisi tek resim, tamami gorunur. Guncelleme uyarisi daha cabuk gelir."
 }
