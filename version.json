@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "6.2",
+  "versionCode": 54,
+  "versionName": "6.3",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Site deposu: kendi listenin adresini gir, liste degistikce yeni siteler kendiliginden eklenir. Sarma gostergesi yanip sonmuyor. Sari odak butondan baslar, Siradaki Bolum butonuna YUKARI ile gidilir. Izlerken takilmalara duzeltme."
+  "notes": "Site deposu listesi her acilista arka planda guncellenir. Depo adresleri yedege eklenir, yeni cihazda yedekle birlikte gelir."
 }
