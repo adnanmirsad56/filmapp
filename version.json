@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "6.1",
+  "versionCode": 53,
+  "versionName": "6.2",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Tam ekranda ilerleme cubuguna kumandayla odak gelir: sol/sag ileri-geri sarar, OK oynat/durdur. hdfilmcehennemi'de sayfa oynaticiya iner, ilk oynat kendiliginden basilir. Sitede aramada eslesen sonuc kendiliginden acilir."
+  "notes": "Site deposu: kendi listenin adresini gir, liste degistikce yeni siteler kendiliginden eklenir. Sarma gostergesi yanip sonmuyor. Sari odak butondan baslar, Siradaki Bolum butonuna YUKARI ile gidilir. Izlerken takilmalara duzeltme."
 }
