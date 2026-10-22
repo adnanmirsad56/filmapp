@@ -1,6 +1,6 @@
 {
-  "versionCode": 54,
-  "versionName": "6.3",
+  "versionCode": 55,
+  "versionName": "6.4",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Site deposu listesi her acilista arka planda guncellenir. Depo adresleri yedege eklenir, yeni cihazda yedekle birlikte gelir."
+  "notes": "Aramada Yandex secenegi. Google/Yandex butonlarinda sari secim. Telefonda acilista afis en ustte. Site deposu adresinde Panodan yapistir."
 }
