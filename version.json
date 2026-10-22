@@ -1,6 +1,6 @@
 {
-  "versionCode": 56,
-  "versionName": "6.5",
+  "versionCode": 57,
+  "versionName": "6.6",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Canli TV ve Canli Radyo (TRT'nin resmi ucretsiz yayinlari): sol/sag ses, yukari/asagi kanal, orta tus liste. Reklam filtreleri guncellenirken ekranda yazi. Site deposu: Telefondan yaz (QR), kisa link. Film sayfasinda Yandex'te ara."
+  "notes": "Canli TV'ye ozel ulusal kanallar (Show TV, Kanal D, TV8, Haberturk, Halk TV, TGRT Haber, 24 TV, TV360, Teve2, Show Turk) ve gun boyu film yayinlayan TV4, TV8,5. Radyoya populer istasyonlar (Power, Super FM, Metro, Joy, Virgin, Kral, Show Radyo, Viva, Slow Turk, Radyo D). Canli TV'de geri dugmesi."
 }
