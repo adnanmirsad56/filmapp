@@ -1,6 +1,6 @@
 {
-  "versionCode": 60,
-  "versionName": "6.9",
+  "versionCode": 61,
+  "versionName": "7.0",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Google'dan acilan filmlerde Kaldigin Yer'de afis gorunur. Ana sayfaya Marvel Studios ve Marvel Dizileri. Uygulamadan cikmak icin iki kez Geri."
+  "notes": "Android TV ana ekraninda FilmApp satiri: Kaldigin Yerden Devam Et ve trend filmler. Karta basinca film dogrudan acilir."
 }
