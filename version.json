@@ -1,6 +1,6 @@
 {
-  "versionCode": 59,
-  "versionName": "6.8",
+  "versionCode": 60,
+  "versionName": "6.9",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Ana sayfaya Netflix, Prime Video, Disney+, HBO Max, Apple TV+, Hulu, Paramount+, Peacock ve yeni basliklar. Canli TV/radyoda kanal logolari. Sari odak sag alttaki dugmelere gecer, sitenin sonraki bolum dugmesi secilebilir. Siradaki bolum uyarisina YUKARI ile gidilir."
+  "notes": "Google'dan acilan filmlerde Kaldigin Yer'de afis gorunur. Ana sayfaya Marvel Studios ve Marvel Dizileri. Uygulamadan cikmak icin iki kez Geri."
 }
