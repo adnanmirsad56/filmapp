@@ -1,6 +1,6 @@
 {
-  "versionCode": 63,
-  "versionName": "7.2",
+  "versionCode": 64,
+  "versionName": "7.3",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Eski izleme gecmisinde afisler gelir. Ayarlar > Gorunum: afis boyutu, tema (Turkuaz, Visne, Gold, Kahve, Pembe) ve English dil secenegi."
+  "notes": "Yas siniri uyarisi ve Aile modu (18+ gizlenir). Tam ekranda Sahne isaretle: uygunsuz sahneden once uyari ya da otomatik atlama. ddizibox ve ufilmizle duzeltmeleri."
 }
