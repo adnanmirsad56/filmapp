@@ -1,6 +1,6 @@
 {
-  "versionCode": 62,
-  "versionName": "7.1",
+  "versionCode": 63,
+  "versionName": "7.2",
   "url": "https://github.com/adnanmirsad56/filmapp/releases/latest/download/FilmApp.apk",
-  "notes": "Tam ekranda oynatici butonlari acilinca ustte film/dizi adi, bolum numarasi ve Onceki/Sonraki Bolum butonlari gorunur."
+  "notes": "Eski izleme gecmisinde afisler gelir. Ayarlar > Gorunum: afis boyutu, tema (Turkuaz, Visne, Gold, Kahve, Pembe) ve English dil secenegi."
 }
